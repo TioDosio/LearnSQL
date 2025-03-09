@@ -30,11 +30,10 @@ Each exercise will indicate the database it is intended for, if applicable.
 
 The repository is organized as follows:
 
-│-- easy/ 
-│-- medium/ 
-│-- hard/ 
+│-- easy/
+│-- medium/
+│-- hard/
 │-- README.md
-
 
 - **easy/** → Contains beginner-friendly exercises.
 - **medium/** → Contains intermediate-level exercises.
@@ -43,20 +42,21 @@ The repository is organized as follows:
 ## 🏆 Exercise Categories
 
 ### Easy Exercises:
-- Histogram of tweets
-- 
+
+- Histogram of Tweets
+-
 
 ### Medium Exercises:
-- 
+
+-
 
 ### Hard Exercises:
-- 
+
+-
 
 ## 🚀 How to Use
 
 1. Clone this repository:
    ```sh
    git clone https://github.com/TioDosio/LearnSQL.git
-
-
-
+   ```
